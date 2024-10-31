@@ -1,0 +1,80 @@
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
+,,DATE,1,Mahaalayaa,aagamani,ghantaa,Holiday (Specimen),Classic,,0~1,1~2,,,DATE,2,Pratimaa,sringaar,pralay,Festival (Main),Packet,,0~1,1~2
+,,3,1,Prathami,nabaanya,prakriti,Program (Event),Inspection,,2~3,3~4,,,,1,Durgaa,trishul,paraashunaa,Find (Order),Charge,,2~3,3~4
+,,,2,Ditiyaa,dadhimukh,grahan,Prepare (Plan),Contact,,4~5,5~6,,,4,2,Singha,chaandmaalaa,aarati,Higher (Negotiate),Crop,,4~5,5~6
+,,,3,Tritiyaa,pratishthaa,aabbaahan,Set-up (Shop),Contract,,6~7,7~8,,,,3,Ganesh,sankha,dikshaa,Track (Report),Trade,,6~7,7~8
+,,,4,Choturthi,prakaanda,prakaash,Competition (Sport),Stamp,,8~9,9~10,,,,4,Kaartik,vimaan,charchaa,Home (Travel),Induction,,8~9,9~10
+,,,5,Panchami,muhurta,bhog,Purchase (Dress),Investment,,10~11,11~12,,,,5,Sarawsati,pustak,rupam,Day-collect (Bank),Craft,,10~11,11~12
+,,,6,Sashthi,artha,upawaas,Trial (Attire),Offer,,0~1,1~2,,,,6,Haas,paan,parichay,Promote (Year),Light,,0~1,1~2
+,,,7,Saptami,darshan,aakarshan,Special (Food),Bonus,,2~3,3~4,,,,7,Lakkhi,paachaali,kaahaani,Scene (Art),Custom,,2~3,3~4
+,,,8,Ashtami,anjali,paridhaan,Local (Tour),Union,,4~5,5~6,,,,8,Pechaa,ratna,patra,Activity (Inspire),Token,,4~5,5~6
+,,,9,Navami,aahaar,niyam,Remote (Tour),Jewellery,,6~7,7~8,,,,9,Naarad,mantra,phal,Register (Member),Participate,,6~7,7~8
+,,,10,Dashami,visharjan,nidaan,Exchange (Gift),Blog,,8~9,9~10,,,,10,Mahish,shaastra,samashthi,Asset (Estimate),Tile,,8~9,9~10
+,,WIDE,x,Ekaadashi,samaapti,aashwin,Agency (Aspire),Contemporary,,10~11,11~12,,,WIDE,x,Sansaar,paatra,stuti,Pot (Flower),Bus,,10~11,11~12
+,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
+,,,,,,,,Prathami,,relay:,:cabin,,,,,,,,,Ditiyaa,,relay:,:cabin
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
+,,DATE,3,Dhyaan,ved,chaamundaa,Drum (Culture),Season,,0~1,1~2,,,DATE,4,Nakhṣatra,sawndarya,prastha,Build (Spot),Layer,,0~1,1~2
+,,,1,Kaali,kaashtha,randhan,Save (Note),Vault,,2~3,3~4,,,,1,Saardaa,hiraa,netra,Make (Extend),Permanent,,2~3,3~4
+,,,2,Manshaa,drabba,sahasra,Identity (Pass),Default,,4~5,5~6,,,,2,Devi,taambaa,kandh,Proper (Concept),Moment,,4~5,5~6
+,,5,3,Shitalaa,puthi,sabhyataa,List (Wish),Sort,,6~7,7~8,,,,3,Bhavaani,shilaa,dant,Retail (Priority),Before,,6~7,7~8
+,,,4,Kaatyaani,binaa,purṇa,Check (Tie),Incident,,8~9,9~10,,,6~7,4,Laabani,chaandi,jihwaa,Resource (Move),Test,,8~9,9~10
+,,,5,Chandi,pushpa,smriti,Instrument (Chair),Arrow,,10~11,11~12,,,,5,Sorshi,kaylaa,kalaayi,Well (Reverse),Posture,,10~11,11~12
+,,,6,Anpurnaa,shani,ghanta,Tour (Appendix),Fold,,0~1,1~2,,,,6,Prashaanti,sonaa,kesh,Difference (Actual),Progress,,0~1,1~2
+,,,7,Bisalaakhi,prishthaa,gathan,Equity (Borrow),Frame,,2~3,3~4,,,,7,Maayaa,abhra,naasikaa,Switch (Quick),Double,,2~3,3~4
+,,,8,Sati,dhaadhaa,khol,Production (Toy),Security,,4~5,5~6,,,,8,Trinetraa,asthi,hoshth,Metal (Sharp),Community,,4~5,5~6
+,,,9,Trikaalakhi,chakra,prakaar,Plant (Exhibit),Platform,,6~7,7~8,,,,9,Naarayani,paath,lalaat,Direct (Upgrade),Context,,6~7,7~8
+,,,10,Paarvati,karpur,mukta,Sale (Capital),Convent,,8~9,9~10,,,,10,Vijaiaa,naaru,naakhun,Record (Count),Cold,,8~9,9~10
+,,WIDE,x,Chotushpradip,amaavasyaa,prasanga,Purchase (Area),Ring,,10~11,11~12,,,WIDE,x,Prakhar,yadaa,granth,Self (Assignment),Environment,,10~11,11~12
+,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
+,,,,,,,,Tritiyaa,,relay:,:cabin,,,,,,,,,Choturthi,,relay:,:cabin
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
+,,DATE,5,Numerology,matter,deity,Sun (Source),Address,,0~1,1~2,,,DATE,6,Oval,express,attitude,Hack (Extra),Trend,,0~1,1~2
+,,,1,Plus,tree,banana,Ideal (Stationery),Win,,2~3,3~4,,,,1,Blue,happy,homeopathy,Share (Invite),Mail,,2~3,3~4
+,,,2,Minus,fire,orange,Costume (Bread),Force,,4~5,5~6,,,,2,Brown,critic,telepathy,Say (Let),Link,,4~5,5~6
+,,,3,Equal,ice,shakalu,Bag (Leather),Stop,,6~7,7~8,,,,3,Grey,tough,sympathy,Block (Cement),Bind,,6~7,7~8
+,,,4,Divide,stone,pomegranate,Transport (Cycle),Treat,,8~9,9~10,,,,4,Orange,mood,allopathy,Shade (Lease),Select,,8~9,9~10
+,,8,5,Multiply,iron,grape,Material (Play),Head,,10~11,11~12,,,,5,Green,conscious,moon-sign,Logic (Keep),Form,,10~11,11~12
+,,,6,Bracket,water,sweet-potato,Stuff (Repair),Badge,,0~1,1~2,,,9,6,Red,anger,sun-sign,Series (Information),Quota,,0~1,1~2
+,,,7,Power,lava,lemon,Resell (Vegetable),Race,,2~3,3~4,,,,7,Gold,sing,psychology,Trophy (Offer),Spend,,2~3,3~4
+,,,8,Divider,smoke,sugarcane,Artificial (Valve),Coupon,,4~5,5~6,,,,8,Pink,hunger,zoology,Social (Pin),Rate,,4~5,5~6
+,,,9,Dividend,carbon,water-chestnut,Memory (Production),Peer,,6~7,7~8,,,,9,Yellow,dance,chatnnee,Reminder (Verbal),Tense,,6~7,7~8
+,,,10,Factor,air,apple,Read (Religion),Lottery,,8~9,9~10,,,,10,White,time,shukta,Over (Hand),Net,,8~9,9~10
+,,WIDE,x,Function,vapour,fruit,Hydrogen (Fuel),Clock,,10~11,11~12,,,WIDE,x,Colour,strength,wealth,Reply (What),Frame,,10~11,11~12
+,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
+,,,,,,,,Panchami,,relay:,:cabin,,,,,,,,,Sashthi,,relay:,:cabin
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
+,,DATE,7,Symbol,bullet,jack,Poke (Design),Choice,,0~1,1~2,,,DATE,8,University,initial,channel,Smile (Humour),Exercise,,0~1,1~2
+,,,1,Parrot,belt,stretch,Toggle (Hook),Store,,2~3,3~4,,,,1,Library,parallel,entrance,Print (Fire),Carry,,2~3,3~4
+,,,2,Incense,target,path,Follow (History),Fact,,4~5,5~6,,,,2,Camp,simultaneous,route,Draw (Sound),Stretch,,4~5,5~6
+,,,3,Cup,poison,soil,Search (Dry),Near,,6~7,7~8,,,,3,Site,opposite,stair,Stir (Light),Hang,,6~7,7~8
+,,,4,Bam,finger,lantern,Double (Tap),Bend,,8~9,9~10,,,,4,Guide,scroll,tunnel,Smell (Paper),Throw,,8~9,9~10
+,,,5,Fan,speech,jute,Pen (Lift),Match,,10~11,11~12,,,,5,Face,concurrent,horn,Say (Loud),Push,,10~11,11~12
+,,,6,Pump,straw,bumper,False (Tape),Break,,0~1,1~2,,,,6,Scene,vibrate,corner,Sketch (Line),Pull,,0~1,1~2
+,,10,7,Plate,detail,diagram,Call (Fix),Silk,,2~3,3~4,,,,7,Clock,temperature,toll,Read (Area),Moves,,2~3,3~4
+,,,8,Sit,third,party,Fry (Main),Make,,4~5,5~6,,,11,8,Field,clutch,bridge,Swim (Tiffin),Release,,4~5,5~6
+,,,9,Triangle,variety,resin,Assemble (Problem),Analogue,,6~7,7~8,,,,9,Shade,continue,room,Eat (Rice),Twist,,6~7,7~8
+,,,10,Insulate,cream,spoon,Profile (Public),Band,,8~9,9~10,,,,10,Program,synchronous,exit,Run (Bamboo),Fast,,8~9,9~10
+,,WIDE,x,And,have,arm,Value (Category),Shadow,,10~11,11~12,,,WIDE,x,Institute,break,turn,Remember (Sorry),Ready,,10~11,11~12
+,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
+,,,,,,,,Saptami,,relay:,:cabin,,,,,,,,,Ashtami,,relay:,:cabin
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
+,,DATE,9,Decade,bikaash,hari,Platinum (Chart),Cause,,0~1,1~2,,,DATE,10,Scaffold,yantra,mat,Step (Auxiliary),Bloom,,0~1,1~2
+,,,1,Heaven,aatmaa,pawdhaa,Term (Prior),Prime,,2~3,3~4,,,,1,Aspect,madhu,ghar,The (Cast),Rhythm,,2~3,3~4
+,,,2,Boundary,tufaan,briksha,Big (Branch),Serial,,4~5,5~6,,,,2,Board,abhidhaan,gowaal,Is (Tram),Sheet,,4~5,5~6
+,,,3,System,manch,khajaanaa,Decorate (Style),Join,,6~7,7~8,,,,3,Pipe,dhaar,sattya,Are (City),Range,,6~7,7~8
+,,,4,Escape,parvat,godhuli,Product (New),Unique,,8~9,9~10,,,,4,Zoom,chitra,khanij,Where (Queue),Border,,8~9,9~10
+,,,5,Forest,sadaa,pratimaa,Soon (Traverse),Fetch,,10~11,11~12,,,,5,Tag,pratibimb,farsh,Fill (Star),Sky,,10~11,11~12
+,,,6,Planet,parat,sagun,Hand (Cover),Unify,,0~1,1~2,,,,6,Shine,barsh,tinkaa,A (Deal),Burn,,0~1,1~2
+,,,7,Ocean,jagat,nasal,Connect (Filter),Version,,2~3,3~4,,,,7,Jot,praathamik,karm,And (Rest),Culture,,2~3,3~4
+,,,8,Gravity,bhumi,daawat,Great (Point),Matrix,,4~5,5~6,,,,8,Park,kundan,aahat,Which (State),Polish,,4~5,5~6
+,,11,9,Direction,sankalp,prathaa,Bin (Slab),Bucket,,6~7,7~8,,,,9,Shot,gagan,aashram,Than (More),Meter,,6~7,7~8
+,,,10,Arbitrary,dharkan,urjyaa,Sample (Circle),Instance,,8~9,9~10,,,12,10,Click,mahal,gananaa,Or (Tube),High,,8~9,9~10
+,,WIDE,x,Sentence,maddhyam,har,Team (Collect),Tick,,10~11,11~12,,,WIDE,x,Separate,pahiyaa,grahast,In (Pallet),Create,,10~11,11~12
+,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
+,,,,,,,,Navami,,relay:,:cabin,,,,,,,,,Dashami,,relay:,:cabin

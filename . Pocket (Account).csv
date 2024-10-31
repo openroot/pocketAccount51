@@ -1,8 +1,8 @@
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,PI|GM,PI|GM,,,,,,,,,,,PI|GM,PI|GM
 ,,PIN,1,Style,turn,frame,Precise (Filter),Store,,0-3,3-6,,,PIN,2,Credit,course,state,Think (Target),Follow,,0-3,3-6
-,,a~b,a,Rent,guide,obtain,Content (Summary),String,,6-9,9-12,,,a~b,b,Participate,department,prime,Snap (Ready),mist,,6-9,9-12
-,,1~2,1,Trend,daily,move,Left (Beyond),Source,,0-3,3-6,,,1~2,2,Nominate,insurance,craft,Crew (Arrive),seed,,0-3,3-6
+,,a~b,a,Rent,guide,obtain,Content (Summary),String,,6-9,9-12,,,,b,Participate,department,prime,Snap (Ready),mist,,6-9,9-12
+,,,1,Trend,daily,move,Left (Beyond),Source,,0-3,3-6,,,1~2,2,Nominate,insurance,craft,Crew (Arrive),seed,,0-3,3-6
 ,,BAND,x,System,pose,watch,Before (Read),Tier,,6-9,9-12,,,BAND,x,Debit,season,view,Posture (Station),Status,,6-9,9-12
 ,,,,,,,,,,CELL[,]ROW,,,,,,,,,,,CELL[,]ROW
 ,,,,,,,,Rent,,lid:,:ink,,,,,,,,,Trend,,lid:,:ink
