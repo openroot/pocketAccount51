@@ -1,0 +1,9 @@
+Style	turn	frame	Precise (Filter)	Store
+Rent	guide	obtain	Content (Summary)	String
+Trend	daily	move	Left (Beyond)	Source
+System	pose	watch	Before (Read)	Tier
+
+Credit	course	state	Think (Target)	Follow
+Participate	department	prime	Snap (Ready)	mist
+Nominate	insurance	craft	Crew (Arrive)	seed
+Debit	season	view	Posture (Station)	Status

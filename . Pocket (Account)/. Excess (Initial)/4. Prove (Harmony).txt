@@ -1,0 +1,5 @@
+Chimney
+Caravan
+Hospital
+Office
+Court
