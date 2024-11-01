@@ -1,6 +1,9 @@
 Style	turn	frame	Precise (Filter)	Store
 Rent	guide	obtain	Content (Summary)	String
 Trend	daily	move	Left (Beyond)	Source
+Clay	lag	bleach	A (Trim)	Topic
+Fade	term	calm	Single (Verb)	Custom
+Gate	aim	dent	Excess (Initial)	Catch
 System	pose	watch	Before (Read)	Tier
 
 Credit	course	state	Think (Target)	Follow
