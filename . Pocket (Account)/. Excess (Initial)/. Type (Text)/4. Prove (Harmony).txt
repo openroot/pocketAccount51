@@ -1,10 +1,10 @@
 Chimney									Home
 Caravan									School
 Spice					species			Hospital
-			boundary					Office
-			rain						Court
+Garage		boundary					Office
+Palace		rain						Court
 Tablet									Park
 Cinema					colleague		Stadium
-			storm						River
-			grass						Pavilion
+Glove		storm						River
+Award		grass						Pavilion
 Scooter					escort			Balcony
