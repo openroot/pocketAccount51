@@ -1,5 +1,10 @@
-Chimney
-Caravan
-Hospital
-Office
-Court
+Chimney		Home
+Caravan		School
+Species		Hospital
+			Office
+			Court
+			Park
+			Stadium
+			River
+			Pavilion
+			Balcony
