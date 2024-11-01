@@ -1,10 +1,10 @@
-Chimney		matte		complement	Vitamin (Good)		Home
-Caravan		well		logo							School
-Spice		drum		robot							Hospital
-Garage		boundary	rover							Office
-Palace		rain		passion							Court
-Tablet		leaf		bill							Park
-Cinema		fluid		colleague						Stadium
-Glove		storm		smash							River
-Award		grass		people							Pavilion
-Scooter		angel		escort		Rock (Best)			Balcony
+Chimney	matte		complement	Vitamin (Good)	Home
+Caravan	well		logo						School
+Spice	drum		robot						Hospital
+Garage	boundary	rover						Office
+Palace	rain		passion						Court
+Tablet	leaf		bill						Park
+Cinema	fluid		colleague					Stadium
+Glove	storm		smash						River
+Award	grass		people						Pavilion
+Scooter	angel		escort		Rock (Best)		Balcony
