@@ -1,10 +1,25 @@
-Chimney	matte		complement	Vitamin (Good)	Home
-Caravan	well		logo						School
-Spice	drum		robot						Hospital
-Garage	boundary	rover						Office
-Palace	rain		passion						Court
-Tablet	leaf		bill						Park
-Cinema	fluid		colleague					Stadium
-Glove	storm		smash						River
-Award	grass		people						Pavilion
-Scooter	angel		escort		Rock (Best)		Balcony
+Toast	passage	goggle	Auction (Early)	Ash
+Chimney	matte	complement	Vitamin (Good)	Home
+Caravan	well	logo	Adapter (Steel)	School
+Spice	drum	robot	Pitch (Parade)	Hospital
+Garage	boundary	rover	Juggle (Complicate)	Office
+Palace	rain	passion	Challenge (Joke)	Court
+Tablet	leaf	bill	Defeat (Pretty)	Park
+Cinema	fluid	colleague	Month (Corporate)	Stadium
+Glove	storm	smash	Simulate (Billion)	River
+Award	grass	people	Decision (Thank)	Pavilion
+Scooter	angel	escort	Rock (Best)	Balcony
+Dial	castle	penny	Fish (Night)	Mega
+
+			Coral
+Caramel		Dose
+			Ton
+			Visa
+			Lazy
+Balloon		Nap
+Chocolate	Fat
+			Wet
+			Pulp
+			Smog
+Alphabet	Browse
+			Pact

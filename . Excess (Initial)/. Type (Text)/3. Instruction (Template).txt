@@ -15,7 +15,7 @@ Instant	young	happen	Category (Suit)	Brand
 Instruct	worth	motive	Quality (Travel)	Course
 Server	since	if	Method (Such)	General
 Sustain	valve	real	Fridge (Raise)	Brick
-Brown	drum	mind	Clock (Effort)	Range
+Brown	kitty	mind	Clock (Effort)	Range
 Drop	gender	decide	Tree (Attempt)	Candidate
 Message	local	fluent	Pattern (Pass)	Sequence
 Much	move	break	Part (Speech)	Predict
@@ -34,7 +34,7 @@ Jump	here	follow	Gain (Model)	Area
 Open	hint	exist	Gust (About)	Show
 Evident	wing	let	Ration (Term)	Depend
 Box	scene	wise	Draw (Close)	Block
-Supply	unit	erase	Dynamic (Alert)	Tablet
+Supply	unit	erase	Dynamic (Alert)	Velvet
 Particle	slope	table	Mean (List)	Era
 
 Shot	exhaust	fire	Electric (Handle)	Trouble
