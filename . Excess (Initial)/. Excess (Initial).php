@@ -1,4 +1,8 @@
 <?php
+	require_once("xlsxReader/excel_reader2.php");
+?>
+
+<?php
 	class readFile {
 		private string $name = "";
 		private ?int $size = null;
