@@ -14,12 +14,12 @@ Dial	castle	penny	Fish (Night)	Mega
 Sir	synth	scape	Turbine (Phase)	Coral
 Caramel	gloss	fancy	Tackle (Thirst)	Dose
 Definite	nation	curious	Jeep (Laser)	Ton
-Raisin				Visa
+Raisin	knife	battery	Albino (Mono)	Visa
 Centigrade				Lazy
 Balloon				Nap
 Chocolate				Fat
 Radar				Wet
-Gum				Pulp
+Gum	yolk	vector	Adopt (Blanket)	Pulp
 Marry	ticket	scrub	Twig (Slim)	Smog
 Alphabet	stitch	needle	Nest (Whistle)	Browse
 Madam	merge	grind	Flap (Tattoo)	Pact
