@@ -64,13 +64,21 @@
 ?>
 
 <?php
+	$list = [
+		"./1. Left (Beyond)/1. Establish (Territory)/pocketAccount51 - 1. Establish (Territory).csv",
+		"./1. Left (Beyond)/2. Exchange (Statement)/pocketAccount51 - 2. Exchange (Statement).csv",
+		"./1. Left (Beyond)/3. Instruction (Template)/pocketAccount51 - 3. Instruction (Template).csv",
+		"./1. Left (Beyond)/4. Prove (Harmony)/pocketAccount51 - 4. Prove (Harmony).csv"
+	];
 	try {
-		$file1 = new readFile("./1. Left (Beyond)/1. Establish (Territory)/pocketAccount51 - 1. Establish (Territory).csv");
-		$form1 = new formatFile($file1->fromContent());
-		/*foreach ($form1->fromForm() as $lineNumber => $line) {
-			print $line;
-			print "<br>";
-		}*/
+		foreach ($list as $value) {
+			$file = new readFile($value);
+			$form = new formatFile($file->fromContent());
+			/*foreach ($form->fromForm() as $lineNumber => $line) {
+				print $line;
+				print "<br>";
+			}*/
+		}
 	}
 	catch (Exception $exception) {
 		print $exception;
