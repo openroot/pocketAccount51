@@ -11,15 +11,15 @@ Award	grass	people	Decision (Thank)	Pavilion
 Scooter	angel	escort	Rock (Best)	Balcony
 Dial	castle	penny	Fish (Night)	Mega
 
-			Coral
-Caramel		Dose
-			Ton
-			Visa
-			Lazy
-Balloon		Nap
-Chocolate	Fat
-			Wet
-			Pulp
-			Smog
-Alphabet	Browse
-			Pact
+Sir	synth	scape	Turbine (Phase)	Coral
+Caramel				Dose
+Define				Ton
+Raisin				Visa
+Centigrade				Lazy
+Balloon				Nap
+Chocolate				Fat
+Radar				Wet
+Gum				Pulp
+Marry				Smog
+Alphabet				Browse
+Madam	merge	grind		Pact

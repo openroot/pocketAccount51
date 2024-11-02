@@ -52,9 +52,12 @@
 
 		private function format(): void {
 			foreach ($this->content as $lineNumber => $line) {
-				print $line;
-				print "<br>";
+				$temporary = [];
+				foreach (explode(",", $line) as $element) {
+					//array_push($this->content, fgets($file));
+				}
 			}
+			print "<br>";
 		}
 
 		public function fromForm(): ?array {
