@@ -4,7 +4,7 @@
 ,,3,1,Prathami,nabaanya,prakriti,Program (Event),Inspection,,2~3,3~4,,,,1,Durgaa,trishul,paraashunaa,Find (Order),Charge,,2~3,3~4
 ,,,2,Ditiyaa,dadhimukh,grahan,Prepare (Plan),Contact,,4~5,5~6,,,4,2,Singha,chaandmaalaa,aarati,Higher (Negotiate),Crop,,4~5,5~6
 ,,,3,Tritiyaa,pratishthaa,aabbaahan,Set-up (Shop),Contract,,6~7,7~8,,,,3,Ganesh,sankha,dikshaa,Track (Report),Trade,,6~7,7~8
-,,,4,Choturthi,prakaanda,prakaash,Competition (Sport),Stamp,,8~9,9~10,,,,4,Kaartik,vimaan,charchaa,Home (Travel),Induction,,8~9,9~10
+,,,4,Choturthi,prakaanda,prakaash,Competition (Sport),Stamp,,8~9,9~10,,,,4,Kaartik,vimaan,charchaa,Tender (Travel),Induction,,8~9,9~10
 ,,,5,Panchami,muhurta,bhog,Purchase (Dress),Investment,,10~11,11~12,,,,5,Sarawsati,pustak,rupam,Day-collect (Bank),Craft,,10~11,11~12
 ,,,6,Sashthi,artha,upawaas,Trial (Attire),Offer,,0~1,1~2,,,,6,Haas,paan,parichay,Promote (Year),Light,,0~1,1~2
 ,,,7,Saptami,darshan,aakarshan,Special (Food),Bonus,,2~3,3~4,,,,7,Lakkhi,paachaali,kaahaani,Scene (Art),Custom,,2~3,3~4
@@ -36,7 +36,7 @@
 ,,,1,Plus,tree,banana,Ideal (Stationery),Win,,2~3,3~4,,,,1,Blue,happy,homeopathy,Share (Invite),Mail,,2~3,3~4
 ,,,2,Minus,fire,orange,Costume (Bread),Force,,4~5,5~6,,,,2,Brown,critic,telepathy,Say (Let),Link,,4~5,5~6
 ,,,3,Equal,ice,shakalu,Bag (Leather),Stop,,6~7,7~8,,,,3,Grey,tough,sympathy,Block (Cement),Bind,,6~7,7~8
-,,,4,Divide,stone,pomegranate,Transport (Cycle),Treat,,8~9,9~10,,,,4,Orange,mood,allopathy,Shade (Lease),Select,,8~9,9~10
+,,,4,Divide,stone,pomegranate,Transport (Cycle),Treat,,8~9,9~10,,,,4,Orange,mood,allopathy,Bat (Native),Select,,8~9,9~10
 ,,8,5,Multiply,iron,grape,Material (Play),Head,,10~11,11~12,,,,5,Green,conscious,moon-sign,Logic (Keep),Form,,10~11,11~12
 ,,,6,Bracket,water,sweet-potato,Stuff (Repair),Badge,,0~1,1~2,,,9,6,Red,anger,sun-sign,Series (Information),Quota,,0~1,1~2
 ,,,7,Power,lava,lemon,Resell (Vegetable),Race,,2~3,3~4,,,,7,Gold,sing,psychology,Trophy (Offer),Spend,,2~3,3~4
@@ -48,7 +48,7 @@
 ,,,,,,,,Panchami,,relay:,:cabin,,,,,,,,,Sashthi,,relay:,:cabin
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
-,,DATE,7,Symbol,bullet,jack,Poke (Design),Choice,,0~1,1~2,,,DATE,8,University,initial,channel,Smile (Humour),Exercise,,0~1,1~2
+,,DATE,7,Symbol,bullet,jack,Poke (Design),Choice,,0~1,1~2,,,DATE,8,University,initial,channel,Smile (Humour),Expert,,0~1,1~2
 ,,,1,Parrot,belt,stretch,Toggle (Hook),Store,,2~3,3~4,,,,1,Library,parallel,entrance,Print (Fire),Carry,,2~3,3~4
 ,,,2,Incense,target,path,Follow (History),Fact,,4~5,5~6,,,,2,Camp,simultaneous,route,Draw (Sound),Stretch,,4~5,5~6
 ,,,3,Cup,poison,soil,Search (Dry),Near,,6~7,7~8,,,,3,Site,opposite,stair,Stir (Light),Hang,,6~7,7~8
@@ -56,7 +56,7 @@
 ,,,5,Fan,speech,jute,Pen (Lift),Match,,10~11,11~12,,,,5,Face,concurrent,horn,Say (Loud),Push,,10~11,11~12
 ,,,6,Pump,straw,bumper,False (Tape),Break,,0~1,1~2,,,,6,Scene,vibrate,corner,Sketch (Line),Pull,,0~1,1~2
 ,,10,7,Plate,detail,diagram,Call (Fix),Silk,,2~3,3~4,,,,7,Clock,temperature,toll,Read (Area),Moves,,2~3,3~4
-,,,8,Sit,third,party,Fry (Main),Make,,4~5,5~6,,,11,8,Field,clutch,bridge,Swim (Tiffin),Release,,4~5,5~6
+,,,8,Sit,third,party,Fry (Main),Make,,4~5,5~6,,,11,8,Field,clutch,bridge,Swim (Tiffin),Feed,,4~5,5~6
 ,,,9,Triangle,variety,resin,Assemble (Problem),Analogue,,6~7,7~8,,,,9,Shade,continue,room,Eat (Rice),Twist,,6~7,7~8
 ,,,10,Insulate,cream,spoon,Profile (Public),Band,,8~9,9~10,,,,10,Program,synchronous,exit,Run (Bamboo),Fast,,8~9,9~10
 ,,WIDE,x,And,have,arm,Value (Category),Shadow,,10~11,11~12,,,WIDE,x,Institute,break,turn,Remember (Sorry),Ready,,10~11,11~12
@@ -72,9 +72,9 @@
 ,,,5,Forest,sadaa,pratimaa,Soon (Traverse),Fetch,,10~11,11~12,,,,5,Tag,pratibimb,farsh,Fill (Star),Sky,,10~11,11~12
 ,,,6,Planet,parat,sagun,Hand (Cover),Unify,,0~1,1~2,,,,6,Shine,barsh,tinkaa,A (Deal),Burn,,0~1,1~2
 ,,,7,Ocean,jagat,nasal,Connect (Filter),Version,,2~3,3~4,,,,7,Jot,praathamik,karm,And (Rest),Culture,,2~3,3~4
-,,,8,Gravity,bhumi,daawat,Great (Point),Matrix,,4~5,5~6,,,,8,Park,kundan,aahat,Which (State),Polish,,4~5,5~6
+,,,8,Gravity,bhumi,daawat,Great (Point),Matrix,,4~5,5~6,,,,8,Flick,kundan,aahat,Which (State),Polish,,4~5,5~6
 ,,11,9,Direction,sankalp,prathaa,Bin (Slab),Bucket,,6~7,7~8,,,,9,Shot,gagan,aashram,Than (More),Meter,,6~7,7~8
 ,,,10,Arbitrary,dharkan,urjyaa,Sample (Circle),Instance,,8~9,9~10,,,12,10,Click,mahal,gananaa,Or (Tube),High,,8~9,9~10
-,,WIDE,x,Sentence,maddhyam,har,Team (Collect),Tick,,10~11,11~12,,,WIDE,x,Separate,pahiyaa,grahast,In (Pallet),Create,,10~11,11~12
+,,WIDE,x,Sentence,maddhyam,har,Team (Collect),Argue,,10~11,11~12,,,WIDE,x,Separate,pahiyaa,grahast,In (Pallet),Create,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
 ,,,,,,,,Navami,,relay:,:cabin,,,,,,,,,Dashami,,relay:,:cabin

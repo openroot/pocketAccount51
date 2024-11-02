@@ -10,7 +10,7 @@
 ,,,7,Angle,vaham,bahan,Ear (Warm),Block,,2~3,3~4,,,,7,Rehearse,confirm,fact,Print (Erase),Toss,,2~3,3~4
 ,,,8,Dot,makaam,jhankaar,Nose (Sharp),Juggle,,4~5,5~6,,,,8,Impression,word,practice,Place (Start),Project,,4~5,5~6
 ,,,9,Half,prahaar,kasar,Forehead (Clean),Height,,6~7,7~8,,,,9,Balance,extend,sure,Plan (Cover),Tweet,,6~7,7~8
-,,,10,Spring,ishaaraa,sahaaraa,Finger (Smash),Stunt,,8~9,9~10,,,,10,Paste,purpose,number,Forest (Daily),Feed,,8~9,9~10
+,,,10,Spring,ishaaraa,sahaaraa,Finger (Snore),Stunt,,8~9,9~10,,,,10,Paste,purpose,number,Forest (Daily),Rim,,8~9,9~10
 ,,WIDE,x,Target,aahaar,kartavy,Knee (Stress),Wait,,10~11,11~12,,,WIDE,x,Judge,delegate,convoy,Function (Once),Migrate,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
 ,,,,,,,,Cylinder,,relay:,:cabin,,,,,,,,,Random,,relay:,:cabin
@@ -22,9 +22,9 @@
 ,,15,3,Drop,take,rotate,Hide (Out),Permanent,,6~7,7~8,,,,3,Pencil,script,try,Other (Moment),Energy,,6~7,7~8
 ,,,4,Piece,again,frequent,Group (Total),Combine,,8~9,9~10,,,16,4,Eraser,tag,put,Turn (Auto),Real,,8~9,9~10
 ,,,5,Cap,coil,enough,Regular (Enter),Control,,10~11,11~12,,,,5,Paper,part,flow,Check (Gap),Thrust,,10~11,11~12
-,,,6,Live,rate,drama,Of (Work),Similar,,0~1,1~2,,,,6,Bundle,stand,touch,Appendix (Lane),Shape,,0~1,1~2
+,,,6,Live,rate,drama,Of (Work),Similar,,0~1,1~2,,,,6,Bundle,stand,slot,Appendix (Lane),Shape,,0~1,1~2
 ,,,7,Free,hold,often,Valid (Reason),Exist,,2~3,3~4,,,,7,Ink,style,scratch,Proportion (Code),Power,,2~3,3~4
-,,,8,Fat,shift,forth,Active (Document),Contrast,,4~5,5~6,,,,8,Pot,tap,align,Direct (Lock),Liquid,,4~5,5~6
+,,,8,Tick,shift,forth,Active (Document),Contrast,,4~5,5~6,,,,8,Pot,tap,align,Direct (Lock),Liquid,,4~5,5~6
 ,,,9,Poll,yet,excess,Absolute (Position),Frame,,6~7,7~8,,,,9,Colour,filter,pull,Repeat (Command),Wave,,6~7,7~8
 ,,,10,Top,ratio,subtle,Continue (System),Original,,8~9,9~10,,,,10,Tube,knob,throw,Difference (Channel),Art,,8~9,9~10
 ,,WIDE,x,Who,wide,guess,Pure (Action),Deliver,,10~11,11~12,,,WIDE,x,Canvas,role,sort,Stream (Response),Sense,,10~11,11~12
@@ -37,12 +37,12 @@
 ,,,2,Focus,neat,bench,Common (Select),Carry,,4~5,5~6,,,,2,Scene,centre,light,Rest (Matrix),Fraction,,4~5,5~6
 ,,,3,Dust,grid,beam,Intense (Answer),Layer,,6~7,7~8,,,,3,Sit,journey,more,Empty (Swap),Wonder,,6~7,7~8
 ,,,4,Hint,hook,pipe,Fit (Complete),Equal,,8~9,9~10,,,,4,Corner,storage,ground,Seal (Contact),Parallel,,8~9,9~10
-,,17,5,Variance,long,shelf,So (Call),Switch,,10~11,11~12,,,,5,Whole,sentence,base,Pace (Information),Induct,,10~11,11~12
+,,17,5,Variance,long,shelf,So (Call),Switch,,10~11,11~12,,,,5,Whole,sentence,base,Recipe (Information),Induct,,10~11,11~12
 ,,,6,Hike,fly,plug,Destine (Term),Signature,,0~1,1~2,,,18,6,Area,respect,below,Receipt (Row),Theme,,0~1,1~2
 ,,,7,Symbol,weight,plate,Hollow (Say),Letter,,2~3,3~4,,,,7,Wall,matter,route,Cake (Slide),Value,,2~3,3~4
 ,,,8,Wealth,read,cup,Unit (Render),Port,,4~5,5~6,,,,8,Rack,electric,token,Fund (Stack),Motor,,4~5,5~6
 ,,,9,Capsule,expand,ring,Necessary (Pick),Idea,,6~7,7~8,,,,9,Tub,regard,way,Rear (Chain),Cartoon,,6~7,7~8
-,,,10,Sheet,type,table,Certain (Routine),Develop,,8~9,9~10,,,,10,Board,space,measure,Count (Border),Update,,8~9,9~10
+,,,10,Sheet,type,table,Certain (Routine),Develop,,8~9,9~10,,,,10,Board,seem,measure,Count (Border),Update,,8~9,9~10
 ,,WIDE,x,Pocket,hundred,tape,Support (Cause),Gift,,10~11,11~12,,,WIDE,x,Lap,hope,only,Prepare (Straight),Explain,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
 ,,,,,,,,Band,,relay:,:cabin,,,,,,,,,Line,,relay:,:cabin
@@ -53,7 +53,7 @@
 ,,,2,Forward,why,show,Package (Verify),While,,4~5,5~6,,,,2,Collaborate,fashion,identity,Quick (Calculate),Freight,,4~5,5~6
 ,,,3,Upward,what,score,Design (Any),Mobile,,6~7,7~8,,,,3,Conduct,fresh,amongst,Destiny (Blend),Establish,,6~7,7~8
 ,,,4,Downward,with,issue,Extension (Via),Scroll,,8~9,9~10,,,,4,Estimate,joy,correct,Indicate (Charge),Justify,,8~9,9~10
-,,,5,Previous,as,spark,Boundary (Limit),Hertz,,10~11,11~12,,,,5,Compare,bold,between,Deep (Bring),Affirm,,10~11,11~12
+,,,5,Previous,as,lease,Boundary (Limit),Hertz,,10~11,11~12,,,,5,Compare,bold,between,Deep (Bring),Affirm,,10~11,11~12
 ,,,6,Summary,for,reply,Member (Rail),Radio,,0~1,1~2,,,,6,Construct,lift,agent,Problem (Propose),Gather,,0~1,1~2
 ,,19,7,Herewith,is,deal,Fold (Break),Load,,2~3,3~4,,,,7,Perception,same,plant,Connect (Form),Query,,2~3,3~4
 ,,,8,Therefore,the,case,Net (Field),Distribute,,4~5,5~6,,,20,8,Amplify,comic,attract,Junction (Grade),Spread,,4~5,5~6
@@ -65,16 +65,16 @@
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
 ,,DATE,19,Inspire,prior,curtain,Roll (Complex),Glycerine,,0~1,1~2,,,DATE,20,Analytic,volume,couple,Frequency (Sphere),Interest,,0~1,1~2
-,,,1,Exercise,native,door,True (Concert),Menthol,,2~3,3~4,,,,1,Play,hall,side,Reverse (Track),Trade,,2~3,3~4
+,,,1,Exercise,pace,door,True (Concert),Menthol,,2~3,3~4,,,,1,Play,hall,side,Reverse (Track),Trade,,2~3,3~4
 ,,,2,Protocol,till,cabinet,Litre (Annotate),Soda,,4~5,5~6,,,,2,Zone,key,profile,Fine (Chart),Page,,4~5,5~6
 ,,,3,Remedy,aware,generate,Fire (Distort),Nitric,,6~7,7~8,,,,3,Sponsor,finish,label,Percentage (Tally),Fun,,6~7,7~8
-,,,4,Manipulate,assault,home,Cheap (Black),Smoke,,8~9,9~10,,,,4,Feature,chamber,unite,Confidence (Panel),Custom,,8~9,9~10
-,,,5,Mystery,float,bracket,Register (Cellular),Para,,10~11,11~12,,,,5,Stick,extra,edge,Around (Main),Learn,,10~11,11~12
+,,,4,Manipulate,assault,hole,Cheap (Black),Smoke,,8~9,9~10,,,,4,Feature,chamber,unite,Confidence (Panel),Custom,,8~9,9~10
+,,,5,Mystery,float,bracket,Register (Cellular),Para,,10~11,11~12,,,,5,Factory,extra,edge,Around (Main),Learn,,10~11,11~12
 ,,,6,Party,down,pip,Recent (Different),Incense,,0~1,1~2,,,,6,Hub,content,trim,Description (Blank),Past,,0~1,1~2
 ,,,7,Theory,figure,trail,Tear (Kick),Extract,,2~3,3~4,,,,7,Monitor,property,drag,Explore (Button),Bucket,,2~3,3~4
 ,,,8,Vocabulary,sound,racket,Instead (Solution),Wax,,4~5,5~6,,,,8,Protect,icon,clip,Amount (Process),Logic,,4~5,5~6
 ,,21,9,Dictionary,multiplex,dimension,Silk (Aperture),Cutlery,,6~7,7~8,,,,9,Video,dock,manage,Record (Plus),Size,,6~7,7~8
-,,,10,Delivery,basic,bounce,School (Example),Foul,,8~9,9~10,,,22,10,Alone,bar,menu,Compatible (Object),Help,,8~9,9~10
+,,,10,Delivery,basic,bounce,Wake (Example),Foul,,8~9,9~10,,,22,10,Alone,bar,menu,Compatible (Object),Help,,8~9,9~10
 ,,WIDE,x,Identify,language,appropriate,Strip (Return),Price,,10~11,11~12,,,WIDE,x,Memory,length,cool,Know (History),Leave,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
 ,,,,,,,,Half,,relay:,:cabin,,,,,,,,,Spring,,relay:,:cabin
