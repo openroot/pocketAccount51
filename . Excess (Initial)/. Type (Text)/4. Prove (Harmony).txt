@@ -22,4 +22,4 @@ Radar				Wet
 Gum				Pulp
 Marry				Smog
 Alphabet				Browse
-Madam	merge	grind		Pact
+Madam	merge	grind	Flap (Tattoo)	Pact
