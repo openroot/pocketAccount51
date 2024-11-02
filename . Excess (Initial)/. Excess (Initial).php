@@ -1,6 +1,5 @@
 <?php
-	//require_once("spreadsheetReader/excel_reader2.php");
-	//require_once("spreadsheetReader/SpreadsheetReader.php");
+	//require_once("");
 ?>
 
 <?php
@@ -41,4 +40,8 @@
 			return $this->content;
 		}
 	}
+?>
+
+<?php
+
 ?>
