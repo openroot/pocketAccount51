@@ -12,7 +12,7 @@ Scooter	angel	escort	Rock (Best)	Balcony
 Dial	castle	penny	Fish (Night)	Mega
 
 Sir	synth	scape	Turbine (Phase)	Coral
-Caramel				Dose
+Caramel	gloss	fancy	Tackle (Thirst)	Dose
 Define				Ton
 Raisin				Visa
 Centigrade				Lazy
@@ -21,5 +21,5 @@ Chocolate				Fat
 Radar				Wet
 Gum				Pulp
 Marry				Smog
-Alphabet				Browse
+Alphabet	stitch	needle	Nest (Whistle)	Browse
 Madam	merge	grind	Flap (Tattoo)	Pact
