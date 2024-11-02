@@ -15,10 +15,10 @@ Sir	synth	scape	Turbine (Phase)	Coral
 Caramel	gloss	fancy	Tackle (Thirst)	Dose
 Definite	nation	curious	Jeep (Laser)	Ton
 Raisin	knife	battery	Albino (Mono)	Visa
-Centigrade				Lazy
+Centigrade	chase	child	Sponge (Dollar)	Lazy
 Balloon				Nap
 Chocolate				Fat
-Radar				Wet
+Radar	macro	circuit	Wrench (Gravel)	Wet
 Gum	yolk	vector	Adopt (Blanket)	Pulp
 Marry	ticket	scrub	Twig (Slim)	Smog
 Alphabet	stitch	needle	Nest (Whistle)	Browse
