@@ -1,5 +1,6 @@
 <?php
-	require_once("xlsxReader/excel_reader2.php");
+	require_once("spreadsheetReader/excel_reader2.php");
+	require_once("spreadsheetReader/excel_reader2.php");
 ?>
 
 <?php
