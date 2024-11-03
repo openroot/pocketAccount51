@@ -29,8 +29,8 @@ Vinegar	drive	utility	Communicate (Per)	Layout
 Rift	rather	swift	Dendrite (Salt)	Compact
 Liquor	cart	parody	Gang (Bow)	Barge
 Honk	ban	oral	Ghost (Candle)	Breed
-Friend	asses			
-Partner	suppose			
+Friend	asses	advertise	Dope (Deposit)	Conscience
+Partner	suppose	specimen	Polite (Treble)	Cardboard
 Luke	skip	grill	Crochet (Ball)	Staff
 Mercury	pilot	pearl	Poet (Mug)	Dim
 Distil	luck	purge	Meteor (Crack)	Delicate
