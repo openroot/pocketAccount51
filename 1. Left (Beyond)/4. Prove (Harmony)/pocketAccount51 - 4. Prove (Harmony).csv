@@ -13,23 +13,23 @@
 ,,,10,Scooter,angel,escort,Rock (Best),Balcony,,8~9,9~10,,,,10,Alphabet,stitch,needle,Nest (Whistle),Browse,,8~9,9~10
 ,,WIDE,x,Dial,castle,penny,Fish (Night),Mega,,10~11,11~12,,,WIDE,x,Madam,merge,grind,Flap (Tattoo),Pact,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
-,,,,,,,,,,relay:,:cabin,,,,,,,,,,,relay:,:cabin
+,,,,,,,,Chimney,,relay:,:cabin,,,,,,,,,Caravan,,relay:,:cabin
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
-,,DATE,33,,,,,,,0~1,1~2,,,DATE,34,,,,,,,0~1,1~2
-,,,1,,,,,,,2~3,3~4,,,,1,,,,,,,2~3,3~4
-,,,2,,,,,,,4~5,5~6,,,,2,,,,,,,4~5,5~6
-,,4,3,,,,,,,6~7,7~8,,,,3,,,,,,,6~7,7~8
-,,,4,,,,,,,8~9,9~10,,,5,4,,,,,,,8~9,9~10
-,,,5,,,,,,,10~11,11~12,,,,5,,,,,,,10~11,11~12
-,,,6,,,,,,,0~1,1~2,,,,6,,,,,,,0~1,1~2
-,,,7,,,,,,,2~3,3~4,,,,7,,,,,,,2~3,3~4
-,,,8,,,,,,,4~5,5~6,,,,8,,,,,,,4~5,5~6
-,,,9,,,,,,,6~7,7~8,,,,9,,,,,,,6~7,7~8
-,,,10,,,,,,,8~9,9~10,,,,10,,,,,,,8~9,9~10
-,,WIDE,x,,,,,,,10~11,11~12,,,WIDE,x,,,,,,,10~11,11~12
+,,DATE,33,Cursive,campaign,continent,Iterate (Syrup),Vital,,0~1,1~2,,,DATE,34,Polygon,parachute,cadre,Crawl (Genius),Cry,,0~1,1~2
+,,,1,Vinegar,drive,utility,Communicate (Per),Layout,,2~3,3~4,,,,1,Quantity,junk,tune,Tail (Descent),Fence,,2~3,3~4
+,,,2,Rift,rather,swift,Dendrite (Salt),Compact,,4~5,5~6,,,,2,Engine,clue,roar,Sensitive (Sting),Brash,,4~5,5~6
+,,4,3,Liquor,cart,parody,Gang (Bow),Barge,,6~7,7~8,,,,3,Obtuse,serve,donate,Access (Modest),Stoop,,6~7,7~8
+,,,4,Honk,ban,oral,Ghost (Candle),Breed,,8~9,9~10,,,5,4,Mart,dump,boy,Kind (Intelligent),Cruise,,8~9,9~10
+,,,5,Friend,asses,advertise,Dope (Deposit),Conscience,,10~11,11~12,,,,5,Miner,deny,tickle,Possess (Brilliant),Approximate,,10~11,11~12
+,,,6,Partner,suppose,specimen,Polite (Treble),Cardboard,,0~1,1~2,,,,6,Observe,calf,tremor,Semantic (Moderate),Strange,,0~1,1~2
+,,,7,Luke,skip,grill,Crochet (Ball),Staff,,2~3,3~4,,,,7,Remorse,irony,mandate,Metaphor (Curly),Literal,,2~3,3~4
+,,,8,Mercury,pilot,pearl,Poet (Mug),Dim,,4~5,5~6,,,,8,Scenario,consist,epitome,Cringe (Dash),Closure,,4~5,5~6
+,,,9,Distil,luck,purge,Meteor (Crack),Delicate,,6~7,7~8,,,,9,Residence,logistic,medical,Conclude (Chubby),Desire,,6~7,7~8
+,,,10,Naphtha,grudge,combo,Elevate (Nut),Acrylic,,8~9,9~10,,,,10,Pulley,fragile,crate,Future (Girl),Potato,,8~9,9~10
+,,WIDE,x,Italic,twilight,kerosene,Associate (Pickle),Skate,,10~11,11~12,,,WIDE,x,Custard,grease,tentacle,Suffer (Brigade),Master,,10~11,11~12
 ,,,,,,,,,,IF[,]SO,,,,,,,,,,,IF[,]SO
-,,,,,,,,,,relay:,:cabin,,,,,,,,,,,relay:,:cabin
+,,,,,,,,Spice,,relay:,:cabin,,,,,,,,,Garage,,relay:,:cabin
 ,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,AM|PM,AM|PM,,,,,,,,,,,AM|PM,AM|PM
 ,,DATE,35,,,,,,,0~1,1~2,,,DATE,36,,,,,,,0~1,1~2
