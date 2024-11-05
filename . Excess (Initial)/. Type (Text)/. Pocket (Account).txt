@@ -7,6 +7,9 @@ Gate	aim	dent	Excess (Initial)	Catch
 System	pose	watch	Before (Read)	Tier
 
 Credit	course	state	Think (Target)	Follow
-Participate	department	prime	Snap (Ready)	mist
-Nominate	insurance	craft	Crew (Arrive)	seed
+Participate	department	prime	Snap (Ready)	Mist
+Nominate	insurance	craft	Crew (Arrive)	Seed
+Majestic	presume	tropic	Value (Little)	Starch
+Typical	consult	fry	Own (Grow)	Fork
+Curriculum	intercept	tense	Mail (Away)	Dew
 Debit	season	view	Posture (Station)	Status
