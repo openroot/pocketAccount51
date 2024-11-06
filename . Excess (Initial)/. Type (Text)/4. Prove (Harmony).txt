@@ -64,14 +64,14 @@ Efficient	concern	launch	Silly (Breeze)	Seize
 Kitty	potent	jet	Chalk (Infant)	Hatch
 
 Bid	dear	streak	Assembly (Compile)	Digit
-Reach	scheme	lyric		
-Wound	skit			
-Middle	snip			
-Furry	win			
-Accuse	bean			
-Belong	lace			
-Charm	mac			
-Clot	each			
-Mold	few			
+Reach	scheme	lyric	Performance (Crown)	Yard
+Wound	skit	beep	Alarm (Snooze)	Cage
+Middle	snip	idle		
+Furry	win	glance		
+Accuse	bean	rush		
+Belong	lace	locket		
+Charm	mac	awake		
+Clot	each	statue		
+Mold	few	techno		
 Assume	engage	axe		
 Edit	pay	miss	Mix (Caption)	Dote
