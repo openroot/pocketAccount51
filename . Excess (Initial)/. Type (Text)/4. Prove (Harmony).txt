@@ -63,15 +63,15 @@ Popular	terrific	elapse	Shoot (Fog)	Jug
 Efficient	concern	launch	Silly (Breeze)	Seize
 Kitty	potent	jet	Chalk (Infant)	Hatch
 
-Bid	dear	streak	Assembly (Compile)	Digit
-Reach	scheme	lyric	Performance (Crown)	Yard
-Wound	skit	beep	Alarm (Snooze)	Cage
-Middle	snip	idle		
-Furry	win	glance		
-Accuse	bean	rush		
-Belong	lace	locket		
-Charm	mac	awake		
-Clot	each	statue		
-Mold	few	techno		
-Assume	engage	axe		
+Bid	dear	streak	Compile (Assembly)	Digit
+Reach	scheme	lyric	Crown (Browser)	Yard
+Wound	skit	beep	Snooze (Alarm)	Cage
+Middle	snip	idle	Allow (Banner)	Traffic
+Furry	win	glance		Essay
+Accuse	bean	rush		Canteen
+Belong	lace	locket		Gargle
+Charm	mac	awake		Slash
+Clot	each	statue		Novel
+Mold	few	techno		Arch
+Assume	engage	axe		Yes
 Edit	pay	miss	Mix (Caption)	Dote
