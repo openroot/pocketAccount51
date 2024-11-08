@@ -89,3 +89,15 @@ Bowler
 Kettle
 Farm
 
+Delight				Pawn
+Coast				Hammer
+Assert	extensive	defence	Transfer (Insulin)	Dropper
+				Buzz
+				Razor
+				Fash
+				Dish
+				Dingle
+				Ching
+				Bowler
+Marine				Kettle
+Climate				Farm
