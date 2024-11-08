@@ -76,3 +76,16 @@ Mold	few	techno	Balm (Hose)	Arch
 Assume	engage	axe	Boot (Stiff)	Yes
 Edit	pay	miss	Bass (Captain)	Dote
 
+Pawn
+Hammer
+Dropper
+Buzz
+Razor
+Fash
+Dish
+Dingle
+Ching
+Bowler
+Kettle
+Farm
+
