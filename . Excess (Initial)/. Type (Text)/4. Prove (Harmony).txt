@@ -63,15 +63,16 @@ Popular	terrific	elapse	Shoot (Fog)	Jug
 Efficient	concern	launch	Silly (Breeze)	Seize
 Kitty	potent	jet	Chalk (Infant)	Hatch
 
-Bid	dear	streak	(Infinite)	Digit
-Reach	scheme	lyric	(Bury)	Yard
-Wound	skit	beep	(Loose)	Cage
-Middle	snip	idle	(Brook)	Traffic
-Furry	win	glance	(Flake)	Essay
-Accuse	bean	rush	(Simple)	Canteen
-Belong	lace	locket	(Slag)	Gargle
-Charm	mac	awake	(Round)	Slash
-Clot	each	statue	(Shore)	Novel
-Mold	few	techno	(Hose)	Arch
-Assume	engage	axe	(Stiff)	Yes
-Edit	pay	miss	(Captain)	Dote
+Bid	dear	streak	Bout (Infinite)	Digit
+Reach	scheme	lyric	Barb (Bury)	Yard
+Wound	skit	beep	Brew (Loose)	Cage
+Middle	snip	idle	Boon (Brook)	Traffic
+Furry	win	glance	Boss (Flake)	Essay
+Accuse	bean	rush	Bash (Simple)	Canteen
+Belong	lace	locket	Bush (Slag)	Gargle
+Charm	mac	awake	Byte (Round)	Slash
+Clot	each	statue	Boom (Shore)	Novel
+Mold	few	techno	Balm (Hose)	Arch
+Assume	engage	axe	Boot (Stiff)	Yes
+Edit	pay	miss	Bass (Captain)	Dote
+
