@@ -89,15 +89,15 @@ Bowler
 Kettle
 Farm
 
-Delight				Pawn
+Delight	generic	gauze	Robust (Mango)	Pawn
 Coast				Hammer
 Assert	extensive	defence	Transfer (Insulin)	Dropper
-				Buzz
-				Razor
-				Fash
-				Dish
-				Dingle
-				Ching
-				Bowler
+Boast				Buzz
+Vice				Razor
+Lope	tangent	offence	Cache (Louse)	Fash
+Alien	luminous	bless	Commit (Mental)	Dish
+Gist				Dingle
+Ozone				Ching
+Mirage	immediate	excite	Rant (Under)	Bowler
 Marine				Kettle
-Climate				Farm
+Climate	shriek	finite	Stag (Swear)	Farm
