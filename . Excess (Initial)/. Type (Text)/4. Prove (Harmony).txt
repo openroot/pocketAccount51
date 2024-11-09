@@ -76,21 +76,8 @@ Mold	few	techno	Balm (Hose)	Arch
 Assume	engage	axe	Boot (Stiff)	Yes
 Edit	pay	miss	Bass (Captain)	Dote
 
-Pawn
-Hammer
-Dropper
-Buzz
-Razor
-Fash
-Dish
-Dingle
-Ching
-Bowler
-Kettle
-Farm
-
 Delight	generic	gauze	Robust (Mango)	Pawn
-Coast				Hammer
+Coast	perpendicular	clearance	Plane (Scare)	Hammer
 Assert	extensive	defence	Transfer (Insulin)	Dropper
 Boast				Buzz
 Vice				Razor
@@ -99,5 +86,5 @@ Alien	luminous	bless	Commit (Mental)	Dish
 Gist				Dingle
 Ozone				Ching
 Mirage	immediate	excite	Rant (Under)	Bowler
-Marine				Kettle
+Marine	controversy	corpus	Resist (Ellipse)	Kettle
 Climate	shriek	finite	Stag (Swear)	Farm
